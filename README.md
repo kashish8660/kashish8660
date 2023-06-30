@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kashish Kataria</h1>
 <h3 align="center">A passionate Android developer working at Enrst & Young.</h3>
 <img align="right" alt="Coding" width="400"src="https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif">
+
 - 💬 Ask me about **Android, MVVM, Jetpack Libraries, Retrofit, Firebase**
 
+- 💬 How to reach me **kashishkataria8660@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kashish-kataria-4a3546190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashish-kataria-4a3546190/" height="30" width="40" /></a>
