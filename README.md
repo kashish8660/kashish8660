@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kashish Kataria</h1>
-<h3 align="center">A passionate Android developer working at Enrst & Young.</h3>
+<h3 align="center">A passionate Android developer working at Ernst & Young.</h3>
 <img align="right" alt="Coding" width="350"src="https://www.appdev360.com/wp-content/uploads/2021/02/gif-app-development-on-android.gif">
 
 - 💬 Ask me about **Android, MVVM, Jetpack Libraries, Retrofit, Firebase**
